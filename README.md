@@ -164,21 +164,7 @@ streamlit run app.py
 
 ## 📌 Requirements
 
-Create a `requirements.txt` file with:
-
-```txt
-streamlit
-google-genai
-python-dotenv
-pypdf
-python-docx
-langchain
-langchain-community
-langchain-huggingface
-langchain-text-splitters
-sentence-transformers
-faiss-cpu
-```
+Create a `requirements.txt` file
 
 ---
 
